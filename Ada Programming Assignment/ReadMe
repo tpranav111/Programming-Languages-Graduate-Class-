@@ -1,3 +1,6 @@
+Concurrent Matrix multiplication (in Ada)
+==========================================
+
 Your Ada program will have two parts:
 
 A package for performing concurrent matrix multiplication.
